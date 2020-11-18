@@ -151,7 +151,7 @@ chmod +x andro.sh
 bash andro.sh
 else
 #If_Scanner_Don't_Detect_Anything
-printf "\033[1;37mWe Are Sorry But \033[0;31mNothin Detected \033[1;37mTry : \033[1;33mManual Scan033[1;37m:(\n"
+printf "\033[1;37mWe Are Sorry But \033[0;31mNothing Detected \033[1;37mTry : \033[1;33mManual Scan033[1;37m:(\n"
 exit 0 
 fi
 }
